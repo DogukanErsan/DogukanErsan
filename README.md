@@ -4,7 +4,7 @@
 
 
   <img src="https://camo.githubusercontent.com/5bbf8ca61ef5f92684489ace45ad6f45984fff87a621040c62b1fe31e3005ff9/687474703a2f2f692e696d6775722e636f6d2f436a34724d72532e676966" width="30">
-  Welcome to Dogukan Ersan | ErsanDigital profile! ( Currently Inactive )
+  Welcome to Dogukan Ersan profile! ( Currently Inactive )
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 <p align="center">
@@ -58,10 +58,10 @@
 # 📊GitHub Stats :
 <!-- ![](https://github-readme-stats.vercel.app/api?username=CodeWhiteWeb&theme=dracula&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=7200) -->
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CodeWhiteWeb&theme=dracula&hide_border=true)](https://github.com/CodeWhiteWeb?tab=repositories) -->
-[![Code's github activity graph](https://githubraw.com/CodeWhiteWeb/CodeWhiteWeb/output/github-contribution-grid-snake.svg)](https://skyline.github.com/CodeWhiteWeb)
+[![Code's github activity graph](https://raw.githubusercontent.com/DogukanErsan/DogukanErsan/d8507a9f15f5c9ccfd1350cf76f0cfb837c5dae2/assets/img/loadbar.svg)](https://skyline.github.com/dogukanersan)
 
 ## 🏆GitHub Trophies
-[![](https://github-profile-trophy.vercel.app/?username=CodeWhiteWeb&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=2&column=4)](https://github-profile-trophy.vercel.app/?username=CodeWhiteWeb&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row53&column=5) <!--<a href="https://app.daily.dev/CodeWhiteWeb"><img src="https://github.com/CodeWhiteWeb/CodeWhiteWeb/blob/main/devcard.svg" width="175" alt="CodeWhiteWebs's Dev Card"/></a><br>-->
+[![](https://github-profile-trophy.vercel.app/?username=DogukanErsan&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=2&column=4)](https://github-profile-trophy.vercel.app/?username=DogukanErsan&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row53&column=5) <!--<a href="https://app.daily.dev/CodeWhiteWeb"><img src="https://github.com/CodeWhiteWeb/CodeWhiteWeb/blob/main/devcard.svg" width="175" alt="CodeWhiteWebs's Dev Card"/></a><br>-->
 <!--![trophy](https://metrics.lecoq.io/CodeWhiteWeb?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&notable=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&notable.from=organization&notable.repositories=true&config.timezone=Asia%2FCalcutta)-->
 
 ---
@@ -86,7 +86,7 @@
 
 
 ### 🎶Spotify List
-  [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31nqkd4reaju3zfynugqtqy5vyj4)](https://open.spotify.com/user/31nqkd4reaju3zfynugqtqy5vyj4)
+  [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31pojq34j6bpyjon7bpgmqdrkcpa)](https://open.spotify.com/user/31pojq34j6bpyjon7bpgmqdrkcpa)
   
   
 ### Funny Riddles , Test your brain 🤓
