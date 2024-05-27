@@ -2,8 +2,6 @@
   <h3 align="center">
     
   ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
-    
-    </h3><h1 align="center">Hi 👋, I'm Doğukan Ersan</h1>
   
   <h1 align="center">Hi 👋, I'm Doğukan Ersan</h1>
   <h3 align="center">A junior developer from Turkey</h3>
