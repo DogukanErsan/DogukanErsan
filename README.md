@@ -41,6 +41,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dogukanersan&" alt="dogukanersan" /></p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dogukanersan&label=Profile%20views&color=0e75b6&style=flat" alt="dogukanersan" /> </p>
+
 ---
 ![](https://forthebadge.com/images/badges/powered-by-black-magic.svg)
 ![](http://ForTheBadge.com/images/badges/built-by-developers.svg)
