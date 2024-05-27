@@ -47,8 +47,8 @@
 ![](http://ForTheBadge.com/images/badges/built-by-developers.svg)
 ![](https://forthebadge.com/images/badges/uses-brains.svg)
 ---
-![Profile_Views](https://komarev.com/ghpvc/?username=DogukanErsan&style=for-the-badge&label=Visitors+Count&color=BD10E0)
-[![wakatime](https://wakatime.com/badge/user/1d2fda96-c074-4c84-a0d5-31efb131faec.svg/?style=for-the-badge)](https://wakatime.com/@1d2fda96-c074-4c84-a0d5-31efb131faec)
+![Profile_Views](https://komarev.com/ghpvc/?username=DogukanErsan&style=for-the-badge&label=Visitors+Count&color=4e0727)
+[![wakatime](https://wakatime.com/badge/user/9fd6014a-861e-4a9e-85d8-50e21341e5a1.svg/?style=for-the-badge)](https://wakatime.com/@dogukanersan)
 
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 </div>
