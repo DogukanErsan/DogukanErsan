@@ -1,6 +1,6 @@
 <h3 align="center">
 
-![](https://raw.githubusercontent.com/DogukanErsan/DogukanErsan/f16f3342c0c7e512b2f353cf50eb95f09958c2e1/assets/img/header.svg)
+![](https://camo.githubusercontent.com/3e95421342fa70af5fd6d50e59591da8c865e5a76432ab429286ce4d1d49ff8c/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d686561646572)
 
 
   <img src="https://github.com/DogukanErsan/DogukanErsan/blob/main/assets/img/handshake-left.gif?raw=true" width="28">
@@ -8,7 +8,7 @@
   <img src="https://github.com/DogukanErsan/DogukanErsan/blob/main/assets/img/handshake-right.gif?raw=true" width="28">
 </h3>
 <p align="center">
-  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+CodeWhiteWeb;I+am+a+High+school+student;Web+Dev;Game+Dev;Bot+Dev;Crypto+Lover+%3C3"></a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rubik&duration=3000&pause=1000&random=false&width=435&separator=%3C&lines=Hi!+Welcome+To+My+GitHub+Page!%3CMy+name+is+Do%C4%9Fukan+Ersan%3CI'm+Junior+Developer%3CMy+%C4%B0nterests;%3CWeb+Dev.%3C.Net+Dev.%3CGame+Dev.%3CMobile+Dev.)](https://git.io/typing-svg)
 </p>
 
 ---
@@ -102,6 +102,6 @@
 [![wakatime](https://wakatime.com/badge/user/9fd6014a-861e-4a9e-85d8-50e21341e5a1.svg/?style=for-the-badge)](https://wakatime.com/@dogukanersan)
 
 
-![](https://raw.githubusercontent.com/DogukanErsan/DogukanErsan/f16f3342c0c7e512b2f353cf50eb95f09958c2e1/assets/img/footer.svg)
+![](https://camo.githubusercontent.com/c27faf5c5f503dae2aadda8171178a26d0b35072e175f8c2dbb98737bc1a7eea/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f746572)
 
 </div>
