@@ -1,14 +1,14 @@
 <div align="center">
   <h3 align="center">
+    
   ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
+    
     </h3>
   
   <h1 align="center">Hi 👋, I'm Doğukan Ersan</h1>
   <h3 align="center">A junior developer from Turkey</h3>
-  
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rubik&duration=3000&pause=1000&random=false&width=435&separator=%3C&lines=Hi!+Welcome+To+My+GitHub+Page!%3CMy+name+is+Do%C4%9Fukan+Ersan%3CI'm+Junior+Developer%3CMy+%C4%B0nterests;%3CWeb+Dev.%3C.Net+Dev.%3CGame+Dev.%3CMobile+Dev." alt="Typing SVG"" /></a>
   
-  ---
   
   <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dogukanersan" alt="dogukanersan" /></a> </p>
   
