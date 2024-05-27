@@ -7,7 +7,6 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rubik&duration=3000&pause=1000&random=false&width=435&separator=%3C&lines=Hi!+Welcome+To+My+GitHub+Page!%3CMy+name+is+Do%C4%9Fukan+Ersan%3CI'm+Junior+Developer%3CMy+%C4%B0nterests;%3CWeb+Dev.%3C.Net+Dev.%3CGame+Dev.%3CMobile+Dev." alt="Typing SVG" align="center" /></a>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=dogukanersan&label=Profile%20views&color=0e75b6&style=flat" alt="dogukanersan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dogukanersan" alt="dogukanersan" /></a> </p>
 
@@ -40,6 +39,15 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dogukanersan&show_icons=true&locale=en" alt="dogukanersan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dogukanersan&" alt="dogukanersan" /></p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dogukanersan&label=Profile%20views&color=0e75b6&style=flat" alt="dogukanersan" /> </p>
+---
+![](https://forthebadge.com/images/badges/powered-by-black-magic.svg)
+![](http://ForTheBadge.com/images/badges/built-by-developers.svg)
+![](https://forthebadge.com/images/badges/uses-brains.svg)
+---
+![Profile_Views](https://komarev.com/ghpvc/?username=CodeWhiteWeb&style=for-the-badge&label=Visitors+Count&color=brightgreen)
+[![wakatime](https://wakatime.com/badge/user/1d2fda96-c074-4c84-a0d5-31efb131faec.svg/?style=for-the-badge)](https://wakatime.com/@1d2fda96-c074-4c84-a0d5-31efb131faec)
 
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 </div>
