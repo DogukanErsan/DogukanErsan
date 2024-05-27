@@ -65,9 +65,9 @@
   
   ---
   
-  ![](https://forthebadge.com/images/badges/powered-by-black-magic.svg)
+  ![](https://forthebadge.com/images/badges/built-with-love.png)
   ![](http://ForTheBadge.com/images/badges/built-by-developers.svg)
-  ![](https://forthebadge.com/images/badges/uses-brains.svg)
+  ![](https://forthebadge.com/images/badges/made-with-html_css.png)
   
   ---
   
