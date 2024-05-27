@@ -1,3 +1,7 @@
+<h3 align="center">
+
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
+
 <h1 align="center">Hi 👋, I'm Doğukan Ersan</h1>
 <h3 align="center">A junior developer from Turkey</h3>
 
@@ -34,3 +38,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dogukanersan&show_icons=true&locale=en" alt="dogukanersan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dogukanersan&" alt="dogukanersan" /></p>
+
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+</div>
