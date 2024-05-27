@@ -8,9 +8,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rubik&duration=3000&pause=1000&random=false&width=435&separator=%3C&lines=Hi!+Welcome+To+My+GitHub+Page!%3CMy+name+is+Do%C4%9Fukan+Ersan%3CI'm+Junior+Developer%3CMy+%C4%B0nterests;%3CWeb+Dev.%3C.Net+Dev.%3CGame+Dev.%3CMobile+Dev." alt="Typing SVG" align="center" /></a>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dogukanersan" alt="dogukanersan" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dogukanersan" alt="dogukanersan" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ersan_dogukan" target="blank"><img src="https://img.shields.io/twitter/follow/ersan_dogukan?logo=twitter&style=for-the-badge" alt="ersan_dogukan" /></a> </p>
+<p align="center"> <a href="https://twitter.com/ersan_dogukan" target="blank"><img src="https://img.shields.io/twitter/follow/ersan_dogukan?logo=twitter&style=for-the-badge" alt="ersan_dogukan" /></a> </p>
 
 - 📫 How to reach me **dogukan.ersan.61@gmail.com**
 
@@ -18,8 +18,8 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="cemter">
 <a href="https://codepen.io/dogukanersan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="dogukanersan" height="30" width="40" /></a>
 <a href="https://dev.to/dogukanersan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dogukanersan" height="30" width="40" /></a>
 <a href="https://twitter.com/ersan_dogukan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ersan_dogukan" height="30" width="40" /></a>
