@@ -4,7 +4,8 @@
 
 <h1 align="center">Hi 👋, I'm Doğukan Ersan</h1>
 <h3 align="center">A junior developer from Turkey</h3>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rubik&duration=3000&pause=1000&random=false&width=435&separator=%3C&lines=Hi!+Welcome+To+My+GitHub+Page!%3CMy+name+is+Do%C4%9Fukan+Ersan%3CI'm+Junior+Developer%3CMy+%C4%B0nterests;%3CWeb+Dev.%3C.Net+Dev.%3CGame+Dev.%3CMobile+Dev." alt="Typing SVG" /></a>
+<div align="center">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dogukanersan&label=Profile%20views&color=0e75b6&style=flat" alt="dogukanersan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dogukanersan" alt="dogukanersan" /></a> </p>
