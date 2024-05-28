@@ -7,9 +7,9 @@
   <h1 align="center" href="https://github.com/DogukanErsan/DogukanErsan"><img src="https://readme-typing-svg.herokuapp.com?font=Rubik&duration=3000&pause=1000&random=false&width=435&separator=%3C&lines=Hi!+Welcome+To+My+GitHub+Page!%3CMy+name+is+Do%C4%9Fukan+Ersan%3CI'm+Junior+Developer%3CMy+%C4%B0nterests;%3CWeb+Dev.%3C.Net+Dev.%3CGame+Dev.%3CMobile+Dev." alt="Typing SVG"/> </h1>
   <h3 align="center">A junior developer from Turkey</h3>
 
+  [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
   
-  
-  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dogukanersan" alt="dogukanersan" /></a> </p>
+  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dogukanersan=ryo-ma&theme=onedark" alt="dogukanersan" /></a> </p>
   
   <p align="center"> <a href="https://twitter.com/ersan_dogukan" target="blank"><img src="https://img.shields.io/twitter/follow/ersan_dogukan?logo=twitter&style=for-the-badge" alt="ersan_dogukan" /></a> </p>
   
