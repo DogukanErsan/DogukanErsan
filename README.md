@@ -8,9 +8,7 @@
   <h3 align="center">A junior developer from Turkey</h3>
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=dogukanersan&theme=onedark)](https://github.com/DogukanErsan)
-  
-  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dogukanersan=ryo-ma&theme=onedark" alt="dogukanersan" /></a> </p>
-  
+    
   <p align="center"> <a href="https://twitter.com/ersan_dogukan" target="blank"><img src="https://img.shields.io/twitter/follow/ersan_dogukan?logo=twitter&style=for-the-badge" alt="ersan_dogukan" /></a> </p>
   
   ---
