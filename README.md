@@ -9,7 +9,7 @@
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=dogukanersan&theme=onedark)](https://github.com/DogukanErsan)
     
-  <p align="center"> <a href="https://twitter.com/ersan_dogukan" target="blank"><img src="https://img.shields.io/twitter/follow/ersan_dogukan?logo=twitter&style=for-the-badge" alt="ersan_dogukan" /></a> </p>
+  <p align="center"> <a href="https://twitter.com/ersan_dogukan" target="_blank"><img src="https://img.shields.io/twitter/follow/ersan_dogukan?logo=twitter&style=for-the-badge" alt="ersan_dogukan" /></a> </p>
   
   ---
   
