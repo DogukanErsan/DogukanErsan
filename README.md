@@ -76,6 +76,7 @@
   [![wakatime](https://wakatime.com/badge/user/9fd6014a-861e-4a9e-85d8-50e21341e5a1.svg/?style=for-the-badge)](https://wakatime.com/@dogukanersan)
   
   ---
-  
-  ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+    
+  [![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)](https://github.com/DogukanErsan)
+
 </div>
