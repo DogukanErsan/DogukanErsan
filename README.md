@@ -13,23 +13,23 @@
   
   ---
   
-  - 🔭 I’m currently working on [personal website.](dogukanersan.github.io)
+  - 🔭 I’m currently working on [personal website.](https://dogukanersan.github.io)
   
   - 🌱 I’m currently learning **PHP, JS, MySQL.**
   
-  - 👯 I’m looking to collaborate on [everything.](dogukanersan.github.io)
+  - 👯 I’m looking to collaborate on [everything.](https://dogukanersan.github.io)
   
-  - 🤝 I’m looking for help with [idea.](dogukanersan.github.io)
+  - 🤝 I’m looking for help with [idea.](https://dogukanersan.github.io)
   
-  - 👨‍💻 All of my projects are available at [dogukanersan.github.io](dogukanersan.github.io)
+  - 👨‍💻 All of my projects are available at [dogukanersan.github.io](https://dogukanersan.github.io)
   
-  - 📝 I regularly write articles on [dogukanersan.github.io](dogukanersan.github.io)
+  - 📝 I regularly write articles on [dogukanersan.github.io](https://dogukanersan.github.io)
   
   - 💬 Ask me about **whatever comes to your mind**
   
   - 📫 How to reach me **dogukan.ersan.61@gmail.com**
   
-  - 📄 Know about my experiences [dogukanersan.github.io](dogukanersan.github.io)
+  - 📄 Know about my experiences [dogukanersan.github.io](https://dogukanersan.github.io)
   
   - ⚡ Fun fact **I can fix a bug in a very long time.**
   
