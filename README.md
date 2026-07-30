@@ -75,6 +75,14 @@ I'm a passionate software developer from **Türkiye** focused on building modern
 
 ---
 
+## 📊 GitHub Metrics
+
+<p align="center">
+  <img src="./github-metrics.svg" alt="GitHub Metrics" />
+</p>
+
+---
+
 # 📊 GitHub Statistics
 
 <p align="center">
