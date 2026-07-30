@@ -93,8 +93,7 @@ I'm a passionate software developer from **Türkiye** focused on building modern
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=dogukanersan&theme=algolia&no-frame=true&row=2&column=4" />
-
+<img src="https://github-trophies.vercel.app/?username=dogukanersan&theme=algolia&no-frame=true&row=2&column=4" />
 </p>
 
 ---
