@@ -1,7 +1,0 @@
-name: Metrics
-on: [workflow_dispatch]
-jobs:
-  metrics:
-    runs-on: ubuntu-latest
-    steps:
-      - run: echo "Configure metrics"
