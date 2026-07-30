@@ -1,79 +1,140 @@
-<div align="center">
-  <h3 align="center">
-    
-  [![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)](https://github.com/DogukanErsan)
-  
-  <h1 align="center">Hi 👋, I'm Doğukan Ersan</h1>
-  <h1 align="center" href="https://github.com/DogukanErsan"><img src="https://readme-typing-svg.herokuapp.com?font=Rubik&duration=3000&pause=1000&random=false&width=435&separator=%3C&lines=Hi!+Welcome+To+My+GitHub+Page!%3CMy+name+is+Do%C4%9Fukan+Ersan%3CI'm+Junior+Developer%3CMy+%C4%B0nterests;%3CWeb+Dev.%3C.Net+Dev.%3CGame+Dev.%3CMobile+Dev." alt="Typing SVG"/> </h1>
-  <h3 align="center">A junior developer from Turkey</h3>
+# 👋 Hi, I'm Doğukan Ersan
 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=dogukanersan&theme=onedark)](https://github.com/DogukanErsan)
-    
-  <p align="center"> <a href="https://twitter.com/ersan_dogukan" target="_blank"><img src="https://img.shields.io/twitter/follow/ersan_dogukan?logo=twitter&style=for-the-badge" alt="ersan_dogukan" /></a> </p>
-  
-  ---
-  
-  - 🔭 I’m currently working on [personal website.](https://dogukanersan.github.io)
-  
-  - 🌱 I’m currently learning **PHP, JS, MySQL.**
-  
-  - 👯 I’m looking to collaborate on [everything.](https://dogukanersan.github.io)
-  
-  - 🤝 I’m looking for help with [idea.](https://dogukanersan.github.io)
-  
-  - 👨‍💻 All of my projects are available at [dogukanersan.github.io](https://dogukanersan.github.io)
-  
-  - 📝 I regularly write articles on [dogukanersan.github.io](https://dogukanersan.github.io)
-  
-  - 💬 Ask me about **whatever comes to your mind**
-  
-  - 📫 How to reach me **dogukan.ersan.61@gmail.com**
-  
-  - 📄 Know about my experiences [dogukanersan.github.io](https://dogukanersan.github.io)
-  
-  - ⚡ Fun fact **I can fix a bug in a very long time.**
-  
-  ---
-  
-  <h3 align="center">Connect with me:</h3>
-  <p align="center">
-  <a href="https://codepen.io/dogukanersan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="dogukanersan" height="30" width="40" /></a>
-  <a href="https://dev.to/dogukanersan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dogukanersan" height="30" width="40" /></a>
-  <a href="https://twitter.com/ersan_dogukan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ersan_dogukan" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/dogukanersan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dogukanersan" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/20166516" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20166516" height="30" width="40" /></a>
-  <a href="https://codesandbox.com/u/dogukanersan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="dogukanersan" height="30" width="40" /></a>
-  <a href="https://fb.com/dogukanersan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dogukanersan" height="30" width="40" /></a>
-  <a href="https://instagram.com/dogukanersan0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dogukanersan0" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/c/dogukanersan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dogukanersan" height="30" width="40" /></a>
-  <a href="https://discord.gg/vUGGRww6tK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="vUGGRww6tK" height="30" width="40" /></a>
-  </p>
-  
-  ---
-  
-  <h3 align="center">Languages and Tools:</h3>
-  <p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
-    
-  ---
-  
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dogukanersan&show_icons=true&locale=en&layout=compact" alt="dogukanersan" /></p>
-  
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dogukanersan&show_icons=true&locale=en" alt="dogukanersan" /></p>
-  
-  
-  ---
-  
-  ![](https://forthebadge.com/images/badges/built-with-love.png)
-  ![](http://ForTheBadge.com/images/badges/built-by-developers.svg)
-  ![](https://forthebadge.com/images/badges/made-with-html_css.png)
-  
-  ---
-  
-  ![Profile_Views](https://komarev.com/ghpvc/?username=DogukanErsan&style=for-the-badge&color=4e0727) 
-  [![wakatime](https://wakatime.com/badge/user/9fd6014a-861e-4a9e-85d8-50e21341e5a1.svg/?style=for-the-badge)](https://wakatime.com/@dogukanersan)
-  
-  ---
-    
-  [![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)](https://github.com/DogukanErsan)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;PHP+%7C+Laravel+%7C+JavaScript;Backend+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
+</p>
 
-</div>
+<p align="center">
+  <a href="https://github.com/dogukanersan">
+    <img src="https://img.shields.io/github/followers/dogukanersan?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://github.com/dogukanersan?tab=repositories">
+    <img src="https://img.shields.io/badge/Open%20Source-Projects-success?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://wakatime.com/@dogukanersan">
+    <img src="https://wakatime.com/badge/user/9fd6014a-861e-4a9e-85d8-50e21341e5a1.svg?style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+## 💫 About Me
+
+I'm a passionate software developer from **Türkiye** focused on building modern, scalable and maintainable web applications.
+
+* 💻 Full Stack Web Development
+* ⚡ Backend Architecture
+* 🛠 PHP, Laravel & JavaScript
+* 🌱 Always learning new technologies
+* 🚀 Passionate about Open Source
+* 🎯 Clean Code & Best Practices
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=php,js,ts,html,css,python,bash" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=laravel,nodejs,express" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=bootstrap,tailwind,vite,react,astro" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,nginx,docker,postman" />
+</p>
+
+---
+
+# 📈 Coding Activity
+
+<p align="center">
+
+[![wakatime](https://wakatime.com/badge/user/9fd6014a-861e-4a9e-85d8-50e21341e5a1.svg/?style=for-the-badge)](https://wakatime.com/@dogukanersan)
+
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dogukanersan&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=dogukanersan&theme=github-dark&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dogukanersan&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=dogukanersan&theme=algolia&no-frame=true&row=2&column=4" />
+
+</p>
+
+---
+
+# 📅 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dogukanersan&theme=github-compact&hide_border=true" />
+
+</p>
+
+---
+
+# 🚀 Featured Technologies
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=php,laravel,js,ts,react,nodejs,astro,mysql,git,docker,linux,nginx,vscode" />
+
+</p>
+
+---
+
+# 📫 Connect with Me
+
+<p align="center">
+
+<a href="https://github.com/dogukanersan">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Code. Learn. Build. Repeat."*
+
+</p>
