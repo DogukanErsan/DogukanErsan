@@ -67,6 +67,8 @@ I'm a passionate software developer from **Türkiye** focused on building modern
 
 # 📈 Coding Activity
 
+<figure><embed src="https://wakatime.com/share/@dogukanersan/54ad420b-296b-4317-bb53-e0724de27bb9.svg"></embed></figure>
+
 <p align="center">
 
 [![wakatime](https://wakatime.com/badge/user/9fd6014a-861e-4a9e-85d8-50e21341e5a1.svg/?style=for-the-badge)](https://wakatime.com/@dogukanersan)
