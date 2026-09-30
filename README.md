@@ -30,7 +30,7 @@
 ## 📫 İletişim
 
 <p align="center">
-<a href="mailto:dogukanersan.dev@gmail.com">
+<a href="mailto:mail@dogukanersan.com">
 <img src="https://img.shields.io/badge/Email-dogukanersan.dev%40gmail.com-3B82F6?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
