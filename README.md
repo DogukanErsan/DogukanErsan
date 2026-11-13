@@ -1,44 +1,47 @@
-# 👋 Merhaba, ben Doğukan Ersan
+<h1 align="center">Doğukan Ersan</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Web+%7C+Android+%7C+Windows+App+Geli%C5%9Ftirme;PHP+%7C+Laravel+%7C+MySQL;Docker+ile+DevOps+Meraql%C4%B1s%C4%B1" alt="Typing SVG" />
+  Full stack developer building apps for web, Android and Windows 🇹🇷
+</p>
+
+<p align="center">
+  <a href="https://dogukanersan.com"><img src="https://img.shields.io/badge/Web-dogukanersan.com-3B82F6?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+  <a href="mailto:mail@dogukanersan.com"><img src="https://img.shields.io/badge/Mail-mail@dogukanersan.com-3B82F6?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-## 💫 Hakkımda
+### 👨‍💻 About Me
 
-**Türkiye**'den, modern ve ölçeklenebilir uygulamalar geliştirmeye odaklanmış bir yazılım geliştiriciyim.
-
-* 💻 Web Tasarımı & Full Stack Web Geliştirme
-* 📱 Android Uygulama Geliştirme
-* 🖥️ Windows Masaüstü Uygulama Geliştirme
-* ⚡ PHP & Laravel ile Backend Geliştirme
-* 🗄️ MySQL ile Veritabanı Tasarımı
-* 🐳 Docker ile Konteynerleştirme
+I'm a software developer from Turkey who builds modern, scalable applications. I work with **PHP / Laravel** on the backend, **Kotlin** on mobile and **.NET** on the desktop, and I use **Docker** for deployment.
 
 ---
 
-## 🛠 Teknoloji Yığınım
+### 🚀 Projects
+
+| Project | Description |
+|---------|-------------|
+| [**Subnely**](https://subnely.com) | Subscription tracker app: renewal dates, payment methods and spending charts |
+| [**SysPeek**](https://github.com/YOUR_USERNAME/SysPeek) | PC system monitor built with WPF / .NET: CPU, RAM, GPU, disk and temperatures |
+| [**Online Tools**](https://tools.dogukanersan.com) | Web utilities such as password generator, hashing and encryption |
+
+---
+
+### 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,androidstudio,kotlin,dotnet,windows,docker,git,github,vscode,linux,nginx" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,html,css,kotlin,androidstudio,dotnet,docker,nginx,linux,git&perline=13" />
 </p>
 
 ---
 
-## 📫 İletişim
+### 📊 GitHub Stats
 
 <p align="center">
-<a href="mailto:mail@dogukanersan.com">
-<img src="https://img.shields.io/badge/Email-mail@dogukanersan.com-3B82F6?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-<p align="center">
-
-*"Kodla. Öğren. Geliştir. Tekrar et."*
-
-</p>
+<p align="center"><i>Code. Learn. Build. Repeat.</i></p>
