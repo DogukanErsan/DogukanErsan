@@ -22,7 +22,7 @@ I'm a software developer from Turkey who builds modern, scalable applications. I
 | Project | Description |
 |---------|-------------|
 | [**Subnely**](https://subnely.com) | Subscription tracker app: renewal dates, payment methods and spending charts |
-| [**SysPeek**](https://github.com/YOUR_USERNAME/SysPeek) | PC system monitor built with WPF / .NET: CPU, RAM, GPU, disk and temperatures |
+| [**SysPeek**](https://github.com/DogukanErsan/SysPeek) | PC system monitor built with WPF / .NET: CPU, RAM, GPU, disk and temperatures |
 | [**Online Tools**](https://tools.dogukanersan.com) | Web utilities such as password generator, hashing and encryption |
 
 ---
