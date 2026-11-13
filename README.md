@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://dogukanersan.com"><img src="https://img.shields.io/badge/Web-dogukanersan.com-3B82F6?style=flat-square&logo=googlechrome&logoColor=white" /></a>
-  <a href="mailto:info@dogukanersan.com"><img src="https://img.shields.io/badge/Mail-mail@dogukanersan.com-3B82F6?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:info@dogukanersan.com"><img src="https://img.shields.io/badge/Mail-info@dogukanersan.com-3B82F6?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
